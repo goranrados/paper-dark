@@ -1,13 +1,13 @@
 {
-    "name": "cnvs/paper-dark",
-    "description": "Canvas Dark Theme",
+    "name": "goranrados/canvas-theme-rcpapupin",
+    "description": "Canvas Theme for RC Pancevo Mihajlo Pupin",
     "keywords": ["canvas", "theme", "dark"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Patrick Reid",
-            "email": "reliq@reliqarts.com"
+            "name": "Goran Rados",
+            "email": "goran@saten.rs"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "extra": {
         "canvas-theme": {
-            "title": "Paper Dark",
+            "title": "Rotary Papupin",
             "directories": {
                 "public": "public",
                 "views": "resources/views"
